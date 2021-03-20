@@ -1,7 +1,7 @@
 # Collection of tools for manipulating MP3 Libraries
 ## Whats needed?
 
-pip install mutagen numpy
+    pip install mutagen numpy
 
   
 
