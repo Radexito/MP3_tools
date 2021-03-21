@@ -30,6 +30,31 @@ example:
     download.bat top100beatport "https://www.youtube.com/playlist?list=PLpPqsLMfPER9WSbq3yaKXkKmtz0n5hcRe"
 
 
+### 3.) double_bpm.py:
+Double BPM of files in a folder
+
+**Usage:** 
+**NOTE:** the **"** are very important around folder name
+python double_bpm.py \<folder>
+
+example:
+
+    python double_bpm.py "songs\test"
+
+
+
+### 4.) half_bpm.py:
+Half BPM of files in a folder
+
+**Usage:** 
+**NOTE:** the **"** are very important around folder name
+python half_bpm.py \<folder>
+
+example:
+
+    python half_bpm.py "songs\test"
+
+
 
 
 ## TODO:
