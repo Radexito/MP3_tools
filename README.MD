@@ -2,7 +2,8 @@
 # Collection of tools for manipulating MP3 Libraries
 ## Whats needed?
 Python3 and Pip in path
-	Run install-dependencies.bat to install required dependencies.
+
+    Run install-dependencies.bat to install required dependencies.
   
 
 ## List of tools
