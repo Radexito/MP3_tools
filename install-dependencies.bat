@@ -21,7 +21,7 @@ bitsadmin /transfer ffmpeg /download /priority FOREGROUND %ffmpeg_URL% "%install
 %install_dir%\7z\7za.exe e "%install_dir%\ffmpeg.7z" -o%install_dir%\ *.exe -r
 del %install_dir%\ffmpeg.7z
 cls
-pip install mutagen numpy
+pip install mutagen numpy argparse
 cls
 
 echo ************************************************
