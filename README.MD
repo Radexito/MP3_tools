@@ -28,3 +28,9 @@ download.bat \<folder> "\<URL>"
 example:
 
     download.bat top100beatport "https://www.youtube.com/playlist?list=PLpPqsLMfPER9WSbq3yaKXkKmtz0n5hcRe"
+
+
+
+
+## TODO:
+Script for deleting *.m4a (cleanup after youtube-dl ffmpeg conversion if stopped by user)

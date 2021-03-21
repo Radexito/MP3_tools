@@ -12,7 +12,6 @@ dryrun = False
 
 
 if(len(sys.argv) > 1):
-    print(sys.argv[1])
     if(sys.argv[1] == "dry"):
         dryrun = True
         print("DRY RUN ENABLED - NO FILES WILL BE MODIFIED.")
