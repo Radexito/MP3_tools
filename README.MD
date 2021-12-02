@@ -39,6 +39,29 @@ example:
 
     python double_bpm.py "songs\test"
 
+### 3.1.) double_bpm_over.py:
+Double BPM of files over X BPM in a folder
+
+**Usage:** 
+**NOTE:** the **"** are very important around folder name
+python double_bpm.py \<folder>
+
+example:
+
+    python double_bpm.py "songs\test" 80
+
+
+### 3.2.) double_bpm_under.py:
+Double BPM of files under X BPM in a folder
+
+**Usage:** 
+**NOTE:** the **"** are very important around folder name
+python double_bpm.py \<folder>
+
+example:
+
+    python double_bpm.py "songs\test" 80
+
 
 
 ### 4.) half_bpm.py:
@@ -51,6 +74,30 @@ python half_bpm.py \<folder>
 example:
 
     python half_bpm.py "songs\test"
+
+
+### 4.1.) half_bpm_over.py:
+Half BPM of files over x BPM in a folder
+
+**Usage:** 
+**NOTE:** the **"** are very important around folder name
+python half_bpm.py \<folder>
+
+example:
+
+    python half_bpm.py "songs\test" 80
+
+
+### 4.2.) half_bpm_under.py:
+Half BPM of files uder x BPM in a folder
+
+**Usage:** 
+**NOTE:** the **"** are very important around folder name
+python half_bpm.py \<folder>
+
+example:
+
+    python half_bpm.py "songs\test" 80
 
 
 
